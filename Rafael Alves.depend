@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1617027382 source:c:\users\roxan\documents\ca\rafael alves e alexandre cavalcante\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+
+1617046045 source:c:\users\roxan\documents\ca\rafael alves e alexandre cavalcante\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdbool.h>
+	<time.h>
+
+1617501705 source:c:\users\roxan\documents\ca\rafael alves e alexandre cavalcante p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdbool.h>
+	<time.h>
+
+1617904868 source:c:\users\roxan\documents\ca\rafael alves p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdbool.h>
+	<time.h>
+
